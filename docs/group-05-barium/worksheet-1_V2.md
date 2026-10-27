@@ -87,7 +87,7 @@
 
 ### 3. What are the essential features?
 
-> **Keep your proposed system simple. Your project will be subject to teacher approval.**
+> **Keep your proposed system simple. Your project will be subject to teacher approval.** 
 
 | Feature | Purpose |
 | ------- | ------- |
