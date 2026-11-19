@@ -11,7 +11,7 @@ Identify the important people, things, records, transactions, or concepts that y
 
 **Guide Question:**
 
-If you were going to create a program for this process, what things would the program need to represent?
+If you were going to create a program for this process, what things would the program need to represent? 
 
 | No. | Object | Description |
 |:---:|---|---|
