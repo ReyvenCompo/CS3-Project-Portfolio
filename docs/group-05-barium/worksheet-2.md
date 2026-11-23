@@ -28,7 +28,7 @@ If you were going to create a program for this process, what things would the pr
 
 ### Object Evaluation
 
-For each identified object, ask
+For each identified object, ask:
 
 - Does it play an important role in the process?
 - Does it contain information?
