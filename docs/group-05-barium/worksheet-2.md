@@ -15,16 +15,16 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 |User|The one who accesses the CRAM-NET system |
+| 2 |Student |User who accesses academic resources and submits requirements |
+| 3 |School Personnel |User who monitors network usage|
+| 4 |Device |A gadget connected to the Wi-Fi. |
+| 5 |Wi-Fi Network |Provides internet access to users. |
+| 6 |Academic Task |A school-related activity. |
+| 7 |Task Urgency |Shows the urgency of an academic task.  |
+| 8 |Bandwidth |The internet speed available to users. |
+| 9 |Network Session |Records a users' Wi-Fi connection. |
+| 10 |Activity Log |Records a users' internet usage. |
 
 ### Object Evaluation
 
