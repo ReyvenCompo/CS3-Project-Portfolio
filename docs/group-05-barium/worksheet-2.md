@@ -48,12 +48,12 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
+| 1 | Student | Use | User |
+| 2 | School Personnel | Use | User |
+| 3 | School Personnel | Creates/Updates | Academic Task |
+| 4 | Student | Views/Completes | Academic Task |
+| 5 | Academic Tasks | Evaluates/Updates | Task Urgency |
+| 6 | Task Urgency | Ranks/Flags | Academic Task |
 | 7 | | | |
 | 8 | | | |
 
