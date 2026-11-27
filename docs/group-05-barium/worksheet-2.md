@@ -54,8 +54,7 @@ Determine how your identified objects interact with one another.
 | 4 | Student | Views/Completes | Academic Task |
 | 5 | Academic Tasks | Evaluates/Updates | Task Urgency |
 | 6 | Task Urgency | Ranks/Flags | Academic Task |
-| 7 | | | |
-| 8 | | | |
+
 
 ---
 
